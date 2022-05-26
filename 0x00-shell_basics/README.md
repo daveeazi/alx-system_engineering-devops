@@ -1,1 +1,1 @@
-where am i
+Symbolic link
