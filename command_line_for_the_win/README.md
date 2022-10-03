@@ -4,9 +4,6 @@
 
 ## File Descriptions
 
-- [0-first_9_tasks](0-first_9_tasks) - Link to a screenshot of the [CMD CHALLENGE website](https://cmdchallenge.com/), showing that at least 9 challenges were completed
-  - [Screenshot](https://i.imgur.com/e8ARJdb.png)
-- [1-next-9-tasks](1-next-9-tasks) - Link to a screenshot of the [CMD CHALLENGE website](https://cmdchallenge.com/), showing that at least 18 challenges were completed
-  - [Screenshot](https://i.imgur.com/e8ARJdb.png)
-- [2-last-9-tasks](2-last-9-tasks) - Link to a screenshot of the [CMD CHALLENGE website](https://cmdchallenge.com/), showing that at least 27 challenges were completed
-  - [Screenshot](https://i.imgur.com/e8ARJdb.png)
+- [0-first_9_tasks]()
+- [1-next-9-tasks]
+- [2-last-9-tasks
