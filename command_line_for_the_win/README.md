@@ -4,6 +4,6 @@
 
 ## File Descriptions
 
-- [0-first_9_tasks]()
-- [1-next-9-tasks]
-- [2-last-9-tasks
+- [0-first_9_tasks](https://github.com/daveeazi/alx-system_engineering-devops/blob/master/command_line_for_the_win/0-first_9_tasks.JPG)
+- [1-next-9-tasks]()
+- [2-last-9-tasks()
