@@ -14,6 +14,8 @@ All of the following folders are projects done during the studies:
 | [`0x03-shell_variable_expansions`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions) | It aims to learn about alias builtin, help builtin, local, global and reserved variables (PATH, HOME and PS1), special parameters `$?` and single an double quotes in **Shell**                                                |
 | [`Command Line for the win`](https://github.com/daveeazi/alx-system_engineering-devops/tree/master/command_line_for_the_win)                | CMD CHALLENGE is a pretty cool game challenging you on Bash skills. Everything is done via the command line and the questions are becoming increasingly complicated. It’s a good training to improve your command line skills! |
 
+| [`Networking Basics`](https://github.com/daveeazi/alx-system_engineering-devops/tree/master/0x07-networking_basics)                | This project was the first of two introducing networking concepts. In this project, I answered a few quiz-like questions and wrote a couple bash scripts while learning about the OSI model, LAN and WAN networks, and TCP/UDP data transfer protocols. |
+
 ## Author :
 
 - **[David Atat](https://twitter.com/iamdaveeazi)**
