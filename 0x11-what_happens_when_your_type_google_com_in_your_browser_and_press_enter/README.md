@@ -50,4 +50,4 @@ The diagram should show:
 - that the application server generates the web page
 - that the application server request data from the database
 
-I hosted the diagram image [here](https://imgbox/...)
+I hosted the diagram image [here](https://github.com/daveeazi/alx-system_engineering-devops/blob/master/0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter/Images/Web2.jpeg)
