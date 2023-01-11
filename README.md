@@ -16,6 +16,7 @@ All of the following folders are projects done during the studies:
 | [`0x05-processes_and_signals`](https://github.com/daveeazi/alx-system_engineering-devops/tree/master/0x05-processes_and_signals) | It aims to learn about PID, processes and commands that handles them (`ps`, `pgrep`, `pkill`, `kill`, etc) in **Bash** |
 | [`0x07-networking_basics`](https://github.com/daveeazi/alx-system_engineering-devops/edit/master/0x07-networking_basics) | It aims to learn about what is an OSI model, LAN, WAN, IP address, localhost, subnet and TCP/UDP |
 | [`0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter`](https://github.com/daveeazi/alx-system_engineering-devops/tree/master/0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter) | This aims to write an article explaining the intricacies of what happens when one makes a google search |
+| [`Command Line For The Win`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/command_line_for_the_win) |  This aims to gain mastery of command line commands across different difficulties |
 
 ## Author :
 
